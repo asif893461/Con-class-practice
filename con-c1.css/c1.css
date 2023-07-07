@@ -1,0 +1,56 @@
+.lo-photo{
+    width: 120px;
+}
+.section{
+    margin-right: 10px;
+    padding-right: 8px;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+.sections{
+    display: flex;
+}
+.menu-container{
+    background-color:rgb(203, 228, 249);
+    color: rgb(240, 6, 6);
+    padding: 15px;
+    list-style: none;
+    align-items: center;
+    justify-content:space-around;
+    display: flex;
+}
+.section:hover{
+    color: blue;
+}
+.hp1{
+    font-size: 40px;
+    font-weight: bold;
+}
+.sp1{
+    font: size 20px; 
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: 1px;
+}
+.all3{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+}
+.simg1{
+   width: 300px; 
+}
+.all3{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hi{
+    background-color: lightskyblue;
+}
